@@ -1,4 +1,4 @@
-package com.github.fritaly.hackerrank
+package com.github.fritaly.hackerrank.strings
 
 class FunnyString {
 
